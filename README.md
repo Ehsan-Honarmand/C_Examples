@@ -1,5 +1,5 @@
-##Composer: Ehsan Honarmand
-**E-Mail  : Ehsan_Honarmand@yahoo.com
+#Composer: Ehsan Honarmand
+E-Mail  : Ehsan_Honarmand@yahoo.com
 **G-Mail  : Ehsan.Honarmand.ORG@gmail.com
 
 100+ C Programs
@@ -9,17 +9,23 @@ C language was developed by Dennis Ritchie in 1972 at Bell Laboratories. In 1989
 The current latest version of the C language is C99, as some new features were added to the C language in 1999.
 You must be thinking, 1999 was more than 20 years ago, but the C language is still very relevant and widely used although there are many other new languages like C++, Java, Python, C#, etc. in the market.
 
-os : WIN\n
-1- install mingw-get-setup.exe from Link https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/ 
-2- go to cmd(Command Prompt)
-3- you are executing code c with Compiler <gcc>
+### Installation
+* os : WIN
+1. install mingw-get-setup.exe from Link [https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/]
+2. go to cmd(Command Prompt)
+3. you are executing code c with Compiler GCC
 
->  
->  gcc c_example.c 
->  gcc c_example.c  -o  c_example.exe    
->  \.c_example.exe
-
-os : Linux
-  
-$  gcc c_example.c
-$  a.out
+```sh
+  gcc c_example.c
+```
+```sh
+  gcc c_example.c  -o  c_example.exe
+```   
+```sh
+  \.c_example.exe
+```
+* os : Linux
+```sh  
+  gcc c_example.c
+  a.out
+```
