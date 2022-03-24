@@ -1,14 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
+#include<time.h>
 
 int main()
 {
-	int var=255;
-	int *p;
-	
-	p = &var; //storing address int variable var in pointer p
-	printf("address of var variable : %x \n\n", &var);
-	printf("address stored int variable var in pointer p : %x \n\n", p);
-	printf("value stored in address p : %d \n\n", *p);
+    time_t t;   // not a primitive datatype
+    time(&t);
 
-	return 0;
+    printf("\nThis program has been writeen at (date and time): %s", ctime(&t));
+    return 0;
 }
