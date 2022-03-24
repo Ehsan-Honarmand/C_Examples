@@ -1,8 +1,8 @@
-#Composer: Ehsan Honarmand
-E-Mail  : Ehsan_Honarmand@yahoo.com
-**G-Mail  : Ehsan.Honarmand.ORG@gmail.com
+### Composer: Ehsan Honarmand
+* E-Mail  : Ehsan_Honarmand@yahoo.com
+* G-Mail  : Ehsan.Honarmand.ORG@gmail.com
 
-100+ C Programs
+## About The Project
 Welcome to the tutorial series for C language.
 
 C language was developed by Dennis Ritchie in 1972 at Bell Laboratories. In 1989, the C language was standardized, where C language features were defined, also known as the 1989 ANSI standard for C, and that is the reason, you will see C language also called C89, because of the 1989 ANSI standard.
@@ -11,9 +11,9 @@ You must be thinking, 1999 was more than 20 years ago, but the C language is sti
 
 ### Installation
 * os : WIN
-1. install mingw-get-setup.exe from Link [https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/]
+1. install mingw-get-setup.exe from Link [MINGW](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/)
 2. go to cmd(Command Prompt)
-3. you are executing code c with Compiler GCC
+3. you should execute code c with `GCC Compiler`
 
 ```sh
   gcc c_example.c
