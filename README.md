@@ -1,8 +1,8 @@
 ### Composer: Ehsan Honarmand
-* E-Mail  : Ehsan_Honarmand@yahoo.com
-* G-Mail  : Ehsan.Honarmand.ORG@gmail.com
+* E-Mail  : [Ehsan_Honarmand@yahoo.com](https://mail.yahoo.com)
+* G-Mail  : [Ehsan.honarmand.org@gmail.com](https://www.google.com/gmail)
 
-## About The Project
+## About The C_Example Repo
 Welcome to the tutorial series for C language.
 
 C language was developed by Dennis Ritchie in 1972 at Bell Laboratories. In 1989, the C language was standardized, where C language features were defined, also known as the 1989 ANSI standard for C, and that is the reason, you will see C language also called C89, because of the 1989 ANSI standard.
