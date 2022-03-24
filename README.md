@@ -1,7 +1,7 @@
 # C_Examples
-Composer: Ehsan Honarmand
-E-Mail  : Ehsan_Honarmand@yahoo.com
-G-Mail  : Ehsan.Honarmand.ORG@gmail.com
+##Composer: Ehsan Honarmand
+**E-Mail  : Ehsan_Honarmand@yahoo.com
+**G-Mail  : Ehsan.Honarmand.ORG@gmail.com
 
 100+ C Programs
 Welcome to the tutorial series for C language.
@@ -14,7 +14,8 @@ os : WIN\n
 1- install mingw-get-setup.exe from Link https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/ 
 2- go to cmd(Command Prompt)
 3- you are executing code c with Compiler <gcc>
-  
+
+>  
 >  gcc c_example.c 
 >  gcc c_example.c  -o  c_example.exe    
 >  \.c_example.exe
