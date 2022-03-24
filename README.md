@@ -1,4 +1,3 @@
-# C_Examples
 ##Composer: Ehsan Honarmand
 **E-Mail  : Ehsan_Honarmand@yahoo.com
 **G-Mail  : Ehsan.Honarmand.ORG@gmail.com
